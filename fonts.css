@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Rubik Storm';
+    src: url('./fonts/RubikStorm-Regular.woff2') format('woff2'),
+         url('./fonts/RubikStorm-Regular.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
