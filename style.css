@@ -1,4 +1,9 @@
 
+button{
+  font-size: 15px;
+  font-weight: 400;
+
+  position: relative;
 
 header {
 	background: color;
@@ -10,6 +15,7 @@ ul{
 	margin: 0;
 	padding: 0;
 	list-style: none;
+
 }
 .box {
 	width:300px;
@@ -44,4 +50,5 @@ ul{
 p {
 	font-family: 'Rubik Storm';
 	font-weight: 600;
+
 }
